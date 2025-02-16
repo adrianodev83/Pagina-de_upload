@@ -1,4 +1,4 @@
-![Descricao da sua imagem](https://imgur.com/xF9M22x.png)
+v![Descricao da sua imagem](https://imgur.com/xF9M22x.png)
 
 # Titulo do projeto
 
@@ -19,7 +19,7 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 ## 📁 Acesso ao projeto
 
-`acesse pelo Link`:
+`acesse pelo Link`: https://adrianodev83.github.io/Pagina-de_upload/
 
 ## Como me encontrar:
 
